@@ -31,7 +31,8 @@
         <h6 class="mb-4">Contact Us</h6>
         <ul class="list-unstyled">
           <li class="mb-3"><i class="ti-mobile mr-3 text-primary"></i>{{ .Site.Params.mobile }}</li>
-          <li class="mb-3">{{ partial "icon-small.html" "phone" }} {{ .Site.Params.landline }}</li>
+          <li class="mb-3">{{ partial "icon-small.html" "phone" }}<span class="ml-1">{{ .Site.Params.landline }}</span>
+          </li>
           <li class="mb-3"><i class="ti-email mr-3 text-primary"></i>{{ .Site.Params.email }}</li>
           <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>{{ .Site.Params.location }}</li>
         </ul>
