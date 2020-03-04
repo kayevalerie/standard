@@ -1,0 +1,110 @@
+
+######################## default configuration ####################
+baseURL = "https://standardrefsupply.com"
+languageCode = "en-us"
+title = "Standard Refrigeration Supply"
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 10
+disqusShortname = ""
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+  
+############################## navigation ###############################
+[menu]
+  
+  # main menu
+  [[menu.main]]
+  name = "Products"
+  URL = "products"
+  weight = 1
+  
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Contact Us"
+  URL = "contact"
+  weight = 3
+
+  # footer menu
+  [[menu.footer]]
+  name = "Products"
+  URL = "products"
+  weight = 1
+  
+  [[menu.footer]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 2
+  
+  [[menu.footer]]
+  name = "Contact Us"
+  URL = "contact"
+  weight = 3
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+
+# Metadata
+description = "This is meta description"
+author = "Standard Refrigeration Supply"
+
+# Contact Information
+mobile = "(02)87332894, (02)87332896, (02)87338790"
+email = "standardrefsupply@gmail.com"
+location = "Quiapo, Manila"
+
+# copyright
+copyright = "© 2016-2020 Standard Refrigeration Supply"
+
+  # Preloader
+  [params.preloader]
+  enable = false
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = false
+
+############################ news letter ########################
+[params.newsletter]
+enable = false
+title = ""
+content = ""
