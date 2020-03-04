@@ -1,6 +1,6 @@
 
 ######################## default configuration ####################
-baseURL = "https://standardrefsupply.com"
+baseURL = "https://upbeat-kare-44d536.netlify.com/"
 languageCode = "en-us"
 title = "Standard Refrigeration Supply"
 theme = "liva-hugo"
