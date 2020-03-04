@@ -203,3 +203,23 @@ textarea.form-control{
 a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover{
   background: $primary-color !important;
 }
+
+.inline-svg-sm {
+  display: inline-block;
+  height: 1.1rem;
+  width: 1.1rem;
+  top: 0.15rem;
+  position: relative;
+}
+
+.inline-svg-lg {
+  display: inline-block;
+  height: 3.4rem;
+  width: 3.4rem;
+  top: -0.3rem;
+  position: relative;
+}
+
+.filter-blue {
+  filter: invert(45%) sepia(87%) saturate(3320%) hue-rotate(170deg) brightness(92%) contrast(96%);
+}

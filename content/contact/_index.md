@@ -10,7 +10,7 @@ image: "images/storefront.png"
 map: true
 
 # meta description
-description: "this is meta description"
+description: "Standard Refrigeration Supply photo, contact details/numbers, store locator and opening hours"
 
 # type
 type: "contact"

@@ -83,11 +83,12 @@ logo = "images/logo.png"
 home = "Home"
 
 # Metadata
-description = "This is meta description"
+description = "Standard Refrigeration Supply store products"
 author = "Standard Refrigeration Supply"
 
 # Contact Information
-mobile = "(02)87332894, (02)87332896, (02)87338790"
+landline = "(02)87332894, (02)87332896, (02)87338790"
+mobile = "09084183129"
 email = "standardrefsupply@gmail.com"
 location = "Quiapo, Manila"
 

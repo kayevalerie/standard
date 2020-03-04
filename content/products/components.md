@@ -7,7 +7,7 @@ draft: false
 image: "images/post/post-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Standard Refrigeration Supply components product list"
 
 # taxonomies
 categories:
