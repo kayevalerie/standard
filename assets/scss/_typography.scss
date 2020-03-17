@@ -76,6 +76,13 @@ h6,
   width: 50px;
 }
 
+.inline-svg-sm {
+  height: 1.05rem;
+  width: 1.05rem;
+  top: 0.15rem;
+  right: 0.05rem;
+}
+
 @media (max-width: 767px) {
   body {
     /* default is 1rem or 16px */
