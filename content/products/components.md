@@ -7,7 +7,7 @@ draft: false
 image: "images/post/components-ct-1132.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply components product list"
+description: "Standard Refrigeration Supply component Manila Philippines"
 
 # taxonomies
 categories:

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/valves-tjre.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply valves product list"
+description: "Standard Refrigeration Supply valve Manila Philippines"
 
 # taxonomies
 categories:

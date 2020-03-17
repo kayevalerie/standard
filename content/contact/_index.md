@@ -10,13 +10,13 @@ image: "images/storefront.png"
 map: true
 
 # meta description
-description: "Standard Refrigeration Supply photo, contact details/numbers, store locator and opening hours"
+description: "Standard Refrigeration Supply photo, contact details/numbers, store address, opening hours"
 
 # type
 type: "contact"
 ---
 
-**Address:** 
+**Address:**
 746 Gonzalo Puyat Street (formerly Raon Street) corner Quezon Boulevard, Quiapo, Manila
 
 **Fax Number:**

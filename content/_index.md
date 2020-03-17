@@ -4,10 +4,10 @@ date: 2019-10-29T13:49:23+06:00
 draft: false
 
 # meta description
-description: "this is meta description"
+description: "Refrigeration and Airconditioning Parts and Supplies in Manila Philippines"
 
 # type
-type : "home"
+type: "home"
 ---
 
 This is the official site of Standard Refrigeration Supply, located in Quiapo, Manila.

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/equipment-hotery.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply equipment product list"
+description: "Standard Refrigeration Supply equipment Manila Philippines"
 
 # taxonomies
 categories:

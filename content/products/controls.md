@@ -7,7 +7,7 @@ draft: false
 image: "images/post/controls-honeywell.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply controls product list"
+description: "Standard Refrigeration Supply control Manila Philippines"
 
 # taxonomies
 categories:

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/fittings-picture.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply fittings product list"
+description: "Standard Refrigeration Supply fitting Manila Philippines"
 
 # taxonomies
 categories:

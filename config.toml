@@ -3,6 +3,7 @@
 baseURL = "https://upbeat-kare-44d536.netlify.com/"
 languageCode = "en-us"
 title = "Standard Refrigeration Supply"
+description = "Refrigeration and Airconditioning Parts and Supplies in Manila Philippines"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 10

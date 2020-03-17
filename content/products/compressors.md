@@ -7,7 +7,7 @@ draft: false
 image: "images/post/compressors-zr94.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply compressors product list"
+description: "Standard Refrigeration Supply compressor Manila Philippines"
 
 # taxonomies
 categories:

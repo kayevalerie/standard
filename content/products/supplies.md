@@ -7,7 +7,7 @@ draft: false
 image: "images/post/supplies-aerotape.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply supplies product list"
+description: "Standard Refrigeration Supply supplies Manila Philippines"
 
 # taxonomies
 categories:

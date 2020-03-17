@@ -7,7 +7,7 @@ draft: false
 image: "images/post/electricals-other.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply electrical product list"
+description: "Standard Refrigeration Supply electrical Manila Philippines"
 
 # taxonomies
 categories:

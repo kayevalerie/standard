@@ -7,7 +7,7 @@ draft: false
 image: "images/post/refrigerants-r134a.jpg"
 
 # meta description
-description: "Standard Refrigeration Supply refrigerants product list"
+description: "Standard Refrigeration Supply refrigerant Freon Manila Philippines"
 
 # taxonomies
 categories:
