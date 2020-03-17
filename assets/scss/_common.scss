@@ -34,7 +34,7 @@ a:focus {
   text-decoration: none;
 }
 
-a.text-primary:hover{
+a.text-primary:hover {
   color: $primary-color !important;
 }
 
@@ -42,7 +42,7 @@ a,
 button,
 select {
   cursor: pointer;
-  transition: .3s ease;
+  transition: 0.3s ease;
 
   &:focus {
     outline: 0;
@@ -88,13 +88,13 @@ a:hover {
 
   &::before {
     position: absolute;
-    content: '';
+    content: "";
     height: 100%;
     width: 100%;
     top: 0;
     left: 0;
     background: $black;
-    opacity: .5;
+    opacity: 0.5;
   }
 }
 
@@ -178,15 +178,15 @@ a:hover {
   border-color: $primary-color !important;
 }
 
-.font-weight-medium{
+.font-weight-medium {
   font-weight: 500 !important;
 }
 
 /* form control */
-.form-control{
+.form-control {
   height: 50px;
   border-radius: 0;
-  &:focus{
+  &:focus {
     box-shadow: none;
     outline: 0;
     border-color: $primary-color;
@@ -196,11 +196,14 @@ a:hover {
   }
 }
 
-textarea.form-control{
+textarea.form-control {
   height: 150px;
 }
 
-a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover{
+a.bg-primary:focus,
+a.bg-primary:hover,
+button.bg-primary:focus,
+button.bg-primary:hover {
   background: $primary-color !important;
 }
 
@@ -214,12 +217,18 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
 
 .inline-svg-lg {
   display: inline-block;
-  height: 3.4rem;
-  width: 3.4rem;
-  top: -0.3rem;
   position: relative;
+  vertical-align: middle;
+  overflow: hidden;
 }
 
 .filter-blue {
-  filter: invert(45%) sepia(87%) saturate(3320%) hue-rotate(170deg) brightness(92%) contrast(96%);
+  filter: invert(45%) sepia(87%) saturate(3320%) hue-rotate(170deg)
+    brightness(92%) contrast(96%);
+}
+
+.list-thumbnail-img {
+  object-fit: cover;
+  object-position: 75% 25%;
+  height: 270px;
 }

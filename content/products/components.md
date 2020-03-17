@@ -4,7 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-1.jpg"
+image: "images/post/components-ct-1132.jpg"
 
 # meta description
 description: "Standard Refrigeration Supply components product list"
@@ -19,13 +19,13 @@ type: "post"
 
 - #### Vibration Eliminator
 
-Our vibration eliminators can be used on either the suction or liquid line.  Available in various sizes and solder connection type.
+Our vibration eliminators can be used on either the suction or liquid line. Available in various sizes and solder connection type.
 \
 Current brand: Packless
 
 - #### Filter Drier
 
-Our filter driers are used for the liquid line.  Available in various sizes and either flare or solder connection types.
+Our filter driers are used for the liquid line. Available in various sizes and either flare or solder connection types.
 \
 Current brands: Emerson, Danfoss, Sporlan
 

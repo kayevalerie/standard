@@ -4,13 +4,13 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-2.jpg"
+image: "images/post/supplies-aerotape.jpg"
 
 # meta description
 description: "Standard Refrigeration Supply supplies product list"
 
 # taxonomies
-categories: 
+categories:
 tags:
 
 # post type

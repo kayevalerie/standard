@@ -4,13 +4,13 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-2.jpg"
+image: "images/post/controls-honeywell.jpg"
 
 # meta description
 description: "Standard Refrigeration Supply controls product list"
 
 # taxonomies
-categories: 
+categories:
 tags:
 
 # post type
@@ -25,7 +25,7 @@ type: "post"
 
 - #### High / Low Pressure Switch
 
-- #### High / Low  Pressure Control
+- #### High / Low Pressure Control
 
 - #### Dual Pressure Control
 
