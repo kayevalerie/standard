@@ -94,7 +94,7 @@ email = "standardrefsupply@gmail.com"
 location = "Quiapo, Manila"
 
 # copyright
-copyright = "© 2016-2020 Standard Refrigeration Supply"
+copyright = "copyright &copy; 2016-2020 Standard Refrigeration Supply"
 
   # Preloader
   [params.preloader]
