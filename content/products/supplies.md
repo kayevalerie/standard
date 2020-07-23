@@ -17,9 +17,8 @@ tags:
 # post type
 type: "post"
 ---
-
 {{< load-photoswipe >}}
-{{< gallery dir="/images/post/supplies" caption-position="center" />}}
+{{< gallery dir="/images/post/supplies" />}}
 
 - #### Roll Strip / Plastic Curtain
 

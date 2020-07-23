@@ -19,7 +19,7 @@ type: "post"
 ---
 
 {{< load-photoswipe >}}
-{{< gallery dir="/images/post/equipment" caption-position="center" />}}
+{{< gallery dir="/images/post/equipment" />}}
 
 - #### Oil Hand Pump
 
