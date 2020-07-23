@@ -19,7 +19,7 @@ type: "post"
 ---
 
 {{< load-photoswipe >}}
-{{< gallery dir="/images/post/refrigerants/"  caption-position="center" />}}
+{{< gallery dir="/images/post/refrigerants"  caption-position="center" />}}
 
 - #### R-141b (used for flushing/cleaning refrigeration / AC systems)
 
