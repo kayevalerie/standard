@@ -4,6 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
+thumb: false
 image: "images/post/supplies-aerotape.jpg"
 
 # meta description
@@ -16,6 +17,9 @@ tags:
 # post type
 type: "post"
 ---
+
+{{< load-photoswipe >}}
+{{< gallery dir="/images/post/supplies/" caption-position="center" />}}
 
 - #### Roll Strip / Plastic Curtain
 

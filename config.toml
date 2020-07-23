@@ -40,6 +40,8 @@ disqusShortname = ""
   URL = "plugins/search/mark.js"
   [[params.plugins.js]]
   URL = "plugins/search/search.js"
+  [[params.plugins.js]]
+  URL = "/js/load-photoswipe.js"
 
   
 ############################## navigation ###############################
@@ -94,7 +96,7 @@ email = "standardrefsupply@gmail.com"
 location = "Quiapo, Manila"
 
 # copyright
-copyright = "copyright &copy; 2016-2020 Standard Refrigeration Supply"
+copyright = "&copy; 2016-2020 Standard Refrigeration Supply"
 
   # Preloader
   [params.preloader]
